@@ -1,4 +1,4 @@
-require_relative '../lib/school.rb'
+require_relative '../../lib/school.rb'
 
 RSpec.describe School do
   it 'has a name' do
